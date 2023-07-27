@@ -1,7 +1,7 @@
 # MolNet_Equi: A Chemically Intuitive, Rotation-Equivariant Graph Neural Network
 This is an implementation of our paper "MolNet_Equi: A Chemically Intuitive, Rotation-Equivariant Graph Neural Network":
 
-Jihoo Kim, Yoonho Jeong, Won June Kim, Eok Kyun Lee, Insung S. Choi, [MolNet_Equi: A Chemically Intuitive, Rotation-Equivariant Graph Neural Network] (Angew. Chem. Int. Ed. 2023) (submitted)
+Jihoo Kim, Yoonho Jeong, Won June Kim, Eok Kyun Lee, Insung S. Choi, [MolNet_Equi: A Chemically Intuitive, Rotation-Equivariant Graph Neural Network] (Chem. Sci. 2023) (submitted)
 
 
 ## Requirements
